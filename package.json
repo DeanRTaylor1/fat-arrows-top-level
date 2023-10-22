@@ -1,0 +1,22 @@
+{
+  "name": "fat-arrows-top-level-only",
+  "version": "1.0.1",
+  "description": "Es lint rule to force fat arrows at the top file scope",
+  "main": "eslint-fat-arrow-plugin.js",
+  "scripts": {
+    "test": "node fat-arrow-top-level-only.test.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
